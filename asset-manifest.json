@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SkyeTravelApp/static/css/main.005d3917.chunk.css",
+    "main.js": "/SkyeTravelApp/static/js/main.2f68bde8.chunk.js",
+    "main.js.map": "/SkyeTravelApp/static/js/main.2f68bde8.chunk.js.map",
+    "runtime-main.js": "/SkyeTravelApp/static/js/runtime-main.3ddd2fb8.js",
+    "runtime-main.js.map": "/SkyeTravelApp/static/js/runtime-main.3ddd2fb8.js.map",
+    "static/js/2.76f2c7eb.chunk.js": "/SkyeTravelApp/static/js/2.76f2c7eb.chunk.js",
+    "static/js/2.76f2c7eb.chunk.js.map": "/SkyeTravelApp/static/js/2.76f2c7eb.chunk.js.map",
+    "static/js/3.aee706ef.chunk.js": "/SkyeTravelApp/static/js/3.aee706ef.chunk.js",
+    "static/js/3.aee706ef.chunk.js.map": "/SkyeTravelApp/static/js/3.aee706ef.chunk.js.map",
+    "index.html": "/SkyeTravelApp/index.html",
+    "static/css/main.005d3917.chunk.css.map": "/SkyeTravelApp/static/css/main.005d3917.chunk.css.map",
+    "static/js/2.76f2c7eb.chunk.js.LICENSE.txt": "/SkyeTravelApp/static/js/2.76f2c7eb.chunk.js.LICENSE.txt",
+    "static/media/SearchBar.css": "/SkyeTravelApp/static/media/background_search_desktop.86eed81b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ddd2fb8.js",
+    "static/js/2.76f2c7eb.chunk.js",
+    "static/css/main.005d3917.chunk.css",
+    "static/js/main.2f68bde8.chunk.js"
+  ]
+}
